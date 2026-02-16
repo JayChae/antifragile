@@ -1,0 +1,14 @@
+[book]
+title = "안티프래질 — 독서 노트"
+authors = [""]
+language = "ko"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/JayChae/antifragile"
+additional-css = ["theme/custom.css"]
